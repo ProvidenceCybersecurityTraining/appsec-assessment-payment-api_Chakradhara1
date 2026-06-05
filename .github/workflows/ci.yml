@@ -1,4 +1,4 @@
-name: Assessment CI  
+name: Assessment CI   
 
 on:
   push:
